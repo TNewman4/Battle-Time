@@ -1,0 +1,19 @@
+.title {
+    display: flex;
+    justify-content: center;
+
+}
+
+.Pokemon1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.big {
+    background-color: #FF7F7F;
+}
+
+.button {
+    display: flex;
+    justify-content: space-evenly;
+}
